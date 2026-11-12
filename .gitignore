@@ -1,0 +1,29 @@
+
+# Python environment
+env/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# MLflow local tracking files
+mlruns/
+
+
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Temporary files
+*.log

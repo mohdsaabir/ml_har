@@ -1,0 +1,8 @@
+env/
+__pycache__/
+*.pyc
+.git/
+har_data/
+mlruns/
+mlflow.db
+predictions.db
